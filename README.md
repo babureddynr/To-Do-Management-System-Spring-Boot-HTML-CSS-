@@ -129,7 +129,7 @@ You’ll be greeted by the **To-Do Management UI** where you can start managing 
 
 Here's a screenshot of the **To-Do Management System** UI:
 
-![To-Do App Screenshot](screenshot.png) <!-- Replace with actual screenshot -->
+![To-Do App Screenshot](https://github.com/babureddynr/To-Do-Management-System-Spring-Boot-HTML-CSS-/blob/main/Screenshot%202024-10-11%20140956.png) <!-- Replace with actual screenshot -->
 
 ---
 
