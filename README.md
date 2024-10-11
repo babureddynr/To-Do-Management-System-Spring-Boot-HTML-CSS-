@@ -189,25 +189,3 @@ Made with ❤️ by **Babureddy N**. Happy Coding! 🚀✨
 ```
 
 ---
-
-### **Key Improvements**
-
-1. **Beautiful Layout & Emoji Use**:
-   - I added more structured sections and vibrant emojis to make the README more engaging.
-   
-2. **Project Structure**: 
-   - Clean and simple tree structure to help users easily understand the project layout.
-   
-3. **Usage Instructions**: 
-   - Step-by-step guide on how to interact with the app after running it locally.
-
-4. **Professional**:
-   - The README provides detailed information without overwhelming the reader.
-
-### Adding Screenshots:
-- Ensure your screenshot is stored in the root folder of your project (e.g., `screenshot.png`).
-- Add it to the README with this syntax:
-
-```markdown
-![To-Do Management App](screenshot.png)
-```
