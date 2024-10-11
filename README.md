@@ -179,13 +179,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🙌 **Credits & Acknowledgments** 🙏
 
-This project was developed by **Babureddy N**.  
+This project was developed by **Babureddy NR**.  
 Feel free to contact for any collaboration, questions, or suggestions. 😊
 
 ---
 
 ## 🎉 **Enjoy Coding!** 😎  
-Made with ❤️ by **Babureddy N**. Happy Coding! 🚀✨
+Made with ❤️ by **Babureddy NR**. Happy Coding! 🚀✨
 ```
 
 ---
