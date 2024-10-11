@@ -14,7 +14,7 @@ This project allows users to easily manage their tasks (add, update, delete) usi
 - Simple and clean UI 🖥️  
 - REST API for backend 💻  
 
-![To-Do Management App](screenshot.png)  <!-- Add your screenshot -->
+![To-Do Management App](https://github.com/babureddynr/To-Do-Management-System-Spring-Boot-HTML-CSS-/blob/main/Screenshot%202024-10-11%20140956.png)  <!-- Add your screenshot -->
 
 ---
 
