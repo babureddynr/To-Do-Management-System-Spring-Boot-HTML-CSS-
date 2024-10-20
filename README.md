@@ -2,6 +2,14 @@
 ---
 
 # 🎯 **To-Do Management System** - **Spring Boot + HTML + CSS** ✨🚀
+# **To-Do Management System** - **Spring Boot + HTML + CSS** ✨
+
+[View Live Demo](https://babureddynr.github.io/spring-html-pages/todo.html)
+
+Welcome to the **To-Do Management System**! 
+
+This project allows users to easily manage their tasks (add, update, delete) using a **Spring Boot** backend and a beautiful **HTML/CSS** front-end.
+
 
 Welcome to the **To-Do Management System**! 📝  
 This project allows users to easily manage their tasks (add, update, delete) using a **Spring Boot** backend and a beautiful **HTML/CSS** front-end. 
